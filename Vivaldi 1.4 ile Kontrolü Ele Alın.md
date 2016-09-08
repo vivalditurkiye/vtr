@@ -55,7 +55,7 @@ Biz sizler için Vivaldi'yi en iyi şekilde geliştirmeye ve özelleştirmeye de
 
 ## [Vivaldi 1.4'ü İndirin](https://vivaldi.com/) ##
 
-Sürümle ilgili tüm değişiklere [buradan](#) ulaşabilirsiniz.
+Sürümle ilgili tüm değişiklere [buradan](https://update.vivaldi.com/update/1.4/relnotes/1.4.589.11.html) ulaşabilirsiniz.
 
 İyi eğlenceler diliyoruz.
 
